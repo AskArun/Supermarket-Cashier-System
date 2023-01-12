@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\akanw\Documents\University\Year 1\4COM1037 - Programming\Coursework\C++\VS\Supermarket Cashier System\Supermarket Cashier System\Source.cpp(61,81): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\akanw\Documents\University\Year 1\4COM1037 - Programming\Coursework\C++\VS\Supermarket Cashier System\Supermarket Cashier System\Source.cpp(70,101): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Supermarket Cashier System.vcxproj -> C:\Users\akanw\Documents\University\Year 1\4COM1037 - Programming\Coursework\C++\VS\Supermarket Cashier System\Debug\Supermarket Cashier System.exe
